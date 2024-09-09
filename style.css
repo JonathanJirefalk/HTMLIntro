@@ -1,0 +1,17 @@
+
+p
+{
+    color:blue;
+}
+
+.red p
+{
+    color: red;
+}
+
+.poem p
+{
+    font-style: oblique;
+    color:black;
+}
+
